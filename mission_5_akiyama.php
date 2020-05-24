@@ -1,5 +1,8 @@
-<html>
+<!DOCTYPE html>
+<html lang="ja">
 <meta charset="utf-8">
+<title>投稿サイト</title>
+<link rel="stylesheet" href="css/styles.css">
 <body>
 
 <?php
